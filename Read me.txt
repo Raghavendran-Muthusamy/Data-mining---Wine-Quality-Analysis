@@ -1,0 +1,3 @@
+Tools Used: SAS Enterprise Miner,XL miner
+
+Used SAS enterprise miner and XL miner to perform Data mining techniques on a wine quality data set to determine  the factors  that contribute to a better wine and wines with what content will get high preference among customers
